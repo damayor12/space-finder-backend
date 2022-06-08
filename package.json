@@ -1,0 +1,29 @@
+{
+  "name": "space-finder-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damayor12/space-finder-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damayor12/space-finder-backend/issues"
+  },
+  "homepage": "https://github.com/damayor12/space-finder-backend#readme",
+  "devDependencies": {
+    "constructs": "^10.1.30",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "aws-cdk": "^2.0.0-rc.1",
+    "aws-cdk-lib": "^2.0.0-rc.1"
+  }
+}
